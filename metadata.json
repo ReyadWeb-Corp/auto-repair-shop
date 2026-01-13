@@ -1,0 +1,7 @@
+{
+  "name": "AutoFix Pro Service OS",
+  "description": "Enterprise service management for workshops featuring deep vehicle tracking, specialist allocation, and cross-industry business settings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
